@@ -1,0 +1,2 @@
+class CardFortune < ApplicationRecord
+end
